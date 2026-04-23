@@ -1,0 +1,10 @@
+name: SIFM
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - scipy
+  - numpy
+  - matplotlib
+  - dataclasses
+  - jupyter
